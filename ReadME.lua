@@ -5,9 +5,9 @@
 -- # ** /mynumber ** -- لمعرفه رقمك
 
 
-local First Store = 'Hady Dev Say I Love You'
+local First Store = 'First Store Say I Love You'
 
-local First Store = "I'm Hady Dis Name = Just f it#0042"
+local First Store = "I'm First Store Dis Name = https://discord.gg/737jgMHsDQ"
 
 local Discord = "https://discord.gg/737jgMHsDQ"
 
