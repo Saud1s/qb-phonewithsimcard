@@ -19,12 +19,7 @@
 Fivem Phone For QBCore With SimCard System New Script Made By US Team
 
 # **Made By Thx For : **
-- Saud The Best -- Saud#0080 -- https://discord.gg/f-t
-- HadyDEV -- Just f it#0042 -- https://discord.gg/f-t
-- Mej -- ! Rv#6331 -- https://discord.gg/f-t
-- Abu Tiago -- Abu Tiago#0001 -- https://discord.gg/f-t
-- The Man -- B_fman#4192 -- https://discord.gg/f-t
-- Mesh -- Mesh#1993 -- https://discord.gg/f-t
+- Saud The Best -- Saud#0080 -- https://discord.gg/737jgMHsDQ
 
 ### ** Notes **
 
